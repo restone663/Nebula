@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/nonor/Documents/GitHub/Nebula/serveur/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.2",
+    "name": "Tale Of Titan",
+    "description": "le meilleur serveur SNK rp (promi)",
+    "address": "TaleOfTitan.inovaperf.com",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.31"
+  },
+  "untrackedFiles": []
+}

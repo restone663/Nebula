@@ -1,6 +1,6 @@
 {
   "name": "nebula",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility package to generate a distribution.json for Helios.",
   "main": "dist/index.js",
   "scripts": {
