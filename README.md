@@ -260,13 +260,13 @@ Sample:
 {
   "$schema": "file:///${ROOT}/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "Test (Minecraft 1.12.2)",
-    "description": "Test Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-    "address": "localhost:25565",
+    "version": "1.0.1",
+    "name": "Tale Of Titan",
+    "description": "meilleur serveur SNK rp (promi)",
+    "address": "TaleOfTitan.inovaperf.com",
     "discord": {
-      "shortId": "1.12.2 Test Server",
-      "largeImageText": "1.12.2 Test Server",
+      "shortId": "Tale Of Titan",
+      "largeImageText": "Tale Of Titan",
       "largeImageKey": "seal-circle"
     },
     "mainServer": false,
